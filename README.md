@@ -174,7 +174,8 @@
 ### Шаг 1: Клонирование репозитория
 ```bash
 git clone https://github.com/AnatoliyVolkov/2048WinFormsApp.git
-cd 2048WinFormsApp```
+cd 2048WinFormsApp
+```
 
 ## 📚 Что было изучено
 
