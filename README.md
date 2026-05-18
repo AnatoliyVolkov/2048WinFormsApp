@@ -132,7 +132,16 @@
 ---
 
 ## 📁 Структура проекта
-
+📦 2048WinFormsApp
+┣ 📄 StartMenu.cs # Главное меню
+┣ 📄 UserInput.cs # Ввод имени и размера
+┣ 📄 Map.cs # Игровая логика
+┣ 📄 ResultsForm.cs # Таблица лидеров
+┣ 📄 RulesGame.cs # Правила игры
+┣ 📄 DataStorage.cs # Сохранение в JSON
+┣ 📄 ValidationHelper.cs # Валидация ввода
+┣ 📄 Program.cs # Точка входа
+┗ 📄 results.json # Файл с рекордами
 
 ## 🔑 Ключевые компоненты
 
